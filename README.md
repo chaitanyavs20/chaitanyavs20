@@ -1,6 +1,4 @@
 [![MasterHead](https://mobiosolutions.com/wp-content/uploads/2019/12/Mobio-Android-Banner.png)]
-<!--
-**chaitanyavs20/chaitanyavs20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Chaitanya Shinde</h1>
 <h3 align="center">A passionate mobile app developer from India. I am an aspiring engineer with a lot of interest in making super exciting Mobile Apps. I am a curious person, a quick learner.</h3>
