@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Shinde</h1>
 <h3 align="center">A passionate mobile app developer from India. I am an aspiring engineer with a lot of interest in making super exciting Mobile Apps. I am a curious person, a quick learner.</h3>
 
-<img align = "right" alt= "Coding" width= 400 src="https://media.tenor.com/SyyBm8FdDSUAAAAC/android-update.gif">
+<img align = "right" alt= "Coding" width= 400 src="https://media.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif">
 
 - 🔭 I’m currently working on **making android apps with very good UI and functionality.**
 
