@@ -5,13 +5,13 @@
 
 <img align = "right" alt= "Coding" width= 400 src="https://media.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif">
 
-- 🔭 I’m currently working on **making android apps with very good UI and functionality.**
+- 🔭 I’m currently working on **making mobile apps with very good UI and functionality.**
 
-- 🌱 I’m currently learning **Jetpack Compose, Kotlin, Android libraries.**
+- 🌱 I’m currently learning **Jetpack Compose, Kotlin, Android libraries, Flutter**
 
 - 👯 I’m always open to collaborate on **projects and innovative ideas.**
 
-- 💬 Ask me about **Java, Android.**
+- 💬 Ask me about **Flutter, Android.**
 
 - 📫 How to reach me **chaitanyashinde2020cs@gmail.com**
 
